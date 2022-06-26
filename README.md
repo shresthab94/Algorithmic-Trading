@@ -52,7 +52,7 @@ Second, we used DecisionTreeClassifier and repeat the process.
 ---
 ## Analysis:
 
-In between the two supervised machine learning methods, SVM had better recall efficiency, while the opposite was true for the predictions by DecisionTreeClassification. Overall efficiency was better for the SVM model. While the overall measure of accuracy for SVM was 0.55, which is above the benchmark of 0.5, decission tree had only 0.45. Decision Tree is prone to overfitting, and this might be a case for this instance.
+In between the two supervised machine learning methods, SVM had better recall efficiency, while the opposite was true for the predictions by DecisionTreeClassification. Overall efficiency was better for the SVM model whereas the statistics for efficiency as represented by precision was constant for both. While the overall measure of accuracy for SVM was 0.55, which is above the benchmark of 0.5, decission tree had only 0.45. Decision Tree is prone to overfitting, and this might be a case for this instance.
 
 ---
 
